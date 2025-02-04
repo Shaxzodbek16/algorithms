@@ -19,6 +19,3 @@ def binary_search(array: list[T], target: T) -> int:
 
 # Time complexity: O(log n)
 # Space complexity: O(1)
-
-
-
