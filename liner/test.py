@@ -1,4 +1,4 @@
-from liner import linear_search
+from liner.liner import linear_search
 
 
 def test_linear_search():
